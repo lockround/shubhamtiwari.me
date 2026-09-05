@@ -52,7 +52,7 @@ export function Hero() {
             variants={item}
             className="font-display text-balance text-4xl font-semibold leading-[1.05] tracking-tight text-foreground sm:text-6xl lg:text-7xl"
           >
-            I design systems that{" "}
+            I build AI systems that{" "}
             <span className="text-gradient">scale without losing shape.</span>
           </motion.h1>
 

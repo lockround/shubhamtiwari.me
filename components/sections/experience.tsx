@@ -10,7 +10,7 @@ export function Experience() {
         <Reveal>
           <p className="mb-4 font-mono text-sm text-primary">Timeline</p>
           <h2 className="font-display text-balance text-3xl font-semibold tracking-tight sm:text-4xl">
-            A track record of shipping at scale.
+            A career of building at scale.
           </h2>
         </Reveal>
 

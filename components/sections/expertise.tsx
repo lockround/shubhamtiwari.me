@@ -16,8 +16,8 @@ export function Expertise() {
               </h2>
             </div>
             <p className="max-w-sm text-muted-foreground">
-              A solutions architect holds the whole system in view — from
-              infrastructure to economics to the people operating it.
+              From AI applications to cloud infrastructure — balancing scale,
+              cost, security, and the people operating it.
             </p>
           </div>
         </Reveal>

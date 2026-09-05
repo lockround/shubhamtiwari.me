@@ -11,7 +11,7 @@ export function Work() {
         <Reveal>
           <p className="mb-4 font-mono text-sm text-primary">Case studies</p>
           <h2 className="font-display text-balance text-3xl font-semibold tracking-tight sm:text-4xl">
-            Systems I&apos;ve shaped.
+            Systems I&apos;ve built.
           </h2>
         </Reveal>
 

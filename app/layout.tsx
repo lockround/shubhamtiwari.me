@@ -26,10 +26,10 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://shubhamtiwari.me"),
   title: "Shubham Tiwari · Solutions Architect",
   description:
-    "Shubham Tiwari designs scalable, resilient cloud systems that turn complex business requirements into dependable architecture.",
+    "Shubham Tiwari is a Solutions Architect specializing in AI-powered applications using LLMs, RAG, and cloud infrastructure on AWS and Azure. 8+ years building scalable, cost-effective systems.",
   openGraph: {
     title: "Shubham Tiwari · Solutions Architect",
-    description: "I design systems that scale without losing shape.",
+    description: "I build AI systems that scale without losing shape.",
     type: "website",
   },
 };
