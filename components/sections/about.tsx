@@ -12,16 +12,17 @@ export function About() {
             <div className="lg:col-span-7">
               <p className="mb-4 font-mono text-sm text-primary">Context</p>
               <h2 className="font-display text-balance text-3xl font-semibold tracking-tight sm:text-4xl">
-                Translating business into architecture.
+                Translating business goals into scalable architecture.
               </h2>
               <div className="mt-8 space-y-5 text-lg leading-relaxed text-muted-foreground">
                 <p className="text-balance">{profile.summary}</p>
                 <p>
-                  My work sits at the intersection of strategy and delivery. I
-                  listen closely enough to understand what a business actually
-                  needs, then design the technical shape that makes it possible
-                  — balancing scale, cost, security, and the people who will run
-                  it.
+                  A versatile team-player with a passion for multi-platform
+                  support, I collaborate iteratively with different teams to
+                  translate business requirements into projects with established
+                  scope. I design cloud architecture for applications that have
+                  an achievable and sustainable development schedule — balancing
+                  scale, cost, security, and the people who will run it.
                 </p>
               </div>
             </div>

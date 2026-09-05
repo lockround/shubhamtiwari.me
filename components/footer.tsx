@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="border-t border-border py-10">
       <div className="container flex flex-col items-center justify-between gap-6 md:flex-row">
         <p className="font-mono text-sm text-muted-foreground">
-          © {new Date().getFullYear()} {profile.name} · Solutions Architect
+          © {new Date().getFullYear()} {profile.name} · {profile.role}
         </p>
         <div className="flex gap-6">
           {profile.socials.map((s) => (
