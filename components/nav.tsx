@@ -11,6 +11,7 @@ const links = [
   { href: "#expertise", label: "Expertise" },
   { href: "#experience", label: "Experience" },
   { href: "#work", label: "Work" },
+  { href: "/app", label: "App" },
 ];
 
 export function Nav() {
