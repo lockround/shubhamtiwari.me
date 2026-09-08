@@ -67,7 +67,7 @@ export const experience = [
   {
     period: "July 2021 — Present",
     role: "Senior Software Developer",
-    company: "Mobile Programming India Pvt. Ltd.",
+    company: "A Technology Company",
     points: [
       "Developed serverless architecture and deployed infrastructure using AWS Lambda with CloudFormation, and created architectures using Elastic Beanstalk, SQS, S3, SNS and other AWS services.",
       "Migrated existing backend applications to EKS and developed Terraform templates for infrastructure management. Created and managed Kubernetes clusters on AWS with manifests, service accounts, OIDC, and IAM roles.",
@@ -79,7 +79,7 @@ export const experience = [
   {
     period: "Sept 2019 — July 2021",
     role: "Software Developer",
-    company: "Mioym Equities",
+    company: "A Software Company",
     points: [
       "Built a full-stack real estate property management application using ReactJS, Node.js, and PostgreSQL.",
       "Set up CI/CD pipeline and deployed the application on AWS Elastic Beanstalk with S3 for assets and a CDN for on-the-fly image loading.",
@@ -91,7 +91,7 @@ export const experience = [
 
 export const projects = [
   {
-    title: "Incyte Matchmaker AI+",
+    title: "AI-Powered Matching Platform",
     category: "AI / RAG Application",
     description:
       "Deployed a RAG application utilizing Azure AI Services, including Vector Store and Document Intelligence Loader, hosted on Azure App Services with private endpoints for secure corporate access.",
@@ -99,7 +99,7 @@ export const projects = [
     href: "#",
   },
   {
-    title: "Commercial Vitiligo Application — Incyte",
+    title: "Healthcare ML Application",
     category: "Healthcare / ML",
     description:
       "Worked on ML model training server deployment, set up microservices for the patient application, migrated to AWS Lambda, and optimized REST API responses by 2x.",
@@ -107,7 +107,7 @@ export const projects = [
     href: "#",
   },
   {
-    title: "Data Wizard — Takeda Pharmaceuticals",
+    title: "Enterprise Data Platform",
     category: "Cloud Architecture",
     description:
       "Created cloud architecture and IaC for provisioning resources, set up Kubernetes (EKS) with GitHub Actions for CI/CD, and managed multiple control planes for dev, UAT, and production with IRSA.",
@@ -120,12 +120,12 @@ export const journey = [
   {
     year: "2019",
     title: "Started professional development",
-    text: "Began building full-stack applications and cloud infrastructure, learning the foundations of scalable systems at Mioym Equities.",
+    text: "Began building full-stack applications and cloud infrastructure, learning the foundations of scalable systems.",
   },
   {
     year: "2021",
     title: "Moved into cloud & serverless",
-    text: "Joined Mobile Programming India, shifting focus to serverless architectures, AWS, Kubernetes, and infrastructure as code.",
+    text: "Shifted focus to serverless architectures, AWS, Kubernetes, and infrastructure as code.",
   },
   {
     year: "2024",
